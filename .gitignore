@@ -1,0 +1,7 @@
+logs/*
+!logs/.gitkeep
+
+config/parameters.yaml
+
+.ideea/*
+vendors/*
